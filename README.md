@@ -1,8 +1,12 @@
 # pyramidion
 Pyramidion Non-Relational Database, v.0.16 (alpha)
+
 (c) 2021 Igor Voloshin ivoloshin@hotmail.com
+
 Programming language: Free Pascal
+
 IDE: Lasarus
+
 Operation system: Ubuntu
 
 This database models an oriented graph consisting of nodes connected with directed edges. Features are the following:
