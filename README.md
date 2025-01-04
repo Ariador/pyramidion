@@ -1,7 +1,7 @@
 # The Pyramidion
-Pyramidion Non-Relational Database, v.0.16 (alpha)
+Pyramidion Non-Relational Database, v.0.19 (alpha)
 
-(c) 2021 Igor Voloshin ivoloshin@hotmail.com
+(c) 2023 Igor Voloshin ivoloshin@hotmail.com
 
 Programming language: Free Pascal
 
@@ -14,7 +14,7 @@ This database models an oriented graph consisting of nodes connected with direct
 2. Duplicate and cyclic edges are forbidden here, so Pyramidion is a model of the oriented graph (orgraph) specifically, and not the directed graph;
 3. Also orphaned (isolated) nodes are forbidden, thus making Pyramidion to be specifically a model of the connected orgraph To prevent the orphaned nodes appearing each new node is automatically linked with the initial Node 0. It's by far the easiest way, allowing for productivity at the cost of memory space;
 4. Types of edges introduced, developping the idea 'Edge is a Node'. These types are just references to nodes, representing edge types, so-called 'property nodes', this typisation mechanism is implemented just to increase the performance and to save storage space;
-5. The latest current (still alpha) is v.0.19. I will push it here soon with an extensive wishlist.
+5. The latest current (still alpha) is v.0.19.
 
 =
 Keep an eye here because what was initially started as just another DBMS now has grown to an effort of creating a totally new
