@@ -17,7 +17,5 @@ This database models an oriented graph consisting of nodes connected with direct
 5. The latest current (still alpha) is v.0.19.
 
 =
-Keep an eye here because what was initially started as just another DBMS now has grown to an effort of creating a totally new
-RUNIC PROGRAMMING LANGUAGE
-which is a declarative esoteric language slightly resembling by the idea (NOT by the form) to Haskell and based on the combinatory logic and the λ-calculus. And on Futhark runes, of course.
+The Pyramidion DBMS is the base for development of the new Runar RUNIC PROGRAMMING LANGUAGE which is a declarative esoteric language slightly resembling by the idea (NOT by the form) to Haskell and based on the combinatory logic and the λ-calculus. And on Futhark runes, of course.
 =
