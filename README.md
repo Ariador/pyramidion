@@ -19,3 +19,5 @@ This database models an oriented graph consisting of nodes connected with direct
 =
 The Pyramidion DBMS is the base for development of the new Runar RUNIC PROGRAMMING LANGUAGE which is a declarative esoteric language slightly resembling by the idea (NOT by the form) to Haskell and based on the combinatory logic and the λ-calculus. And on Futhark runes, of course.
 =
+
+I am now writing a manual for Runar language and will put it here as the separate project, for easier maintainability.
