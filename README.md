@@ -16,6 +16,5 @@ This database models an oriented graph consisting of nodes connected with direct
 4. Types of edges introduced, developping the idea 'Edge is a Node'. These types are just references to nodes, representing edge types, so-called 'property nodes', this typisation mechanism is implemented just to increase the performance and to save storage space;
 5. The latest version (still alpha) is v.0.19, archived here. Version 0.20 is now in development.
 
-The Pyramidion DBMS is the base for development of the new Runar RUNIC PROGRAMMING LANGUAGE which is a declarative esoteric language slightly resembling by the idea (NOT by the form) to Haskell and based on the combinatory logic and the λ-calculus. And on Futhark runes, of course.
-
+The Pyramidion DBMS is the base for development of the new Runar programming language which is a declarative esoteric language slightly resembling by the idea (NOT by the form) to Haskell and based on the combinatory logic and the λ-calculus. And on Futhark runes.
 I am now writing a manual for the Runar language and will put it here as the separate project, for easier maintainability.
