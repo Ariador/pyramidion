@@ -1,7 +1,7 @@
 # The Pyramidion
 Pyramidion Non-Relational Database, v.0.19 (alpha)
 
-(c) 2018-2025 Igor Voloshin ivoloshin@hotmail.com
+(c) 2018-2025 by Igor Voloshin ivoloshin@hotmail.com
 
 Programming language: Free Pascal
 
